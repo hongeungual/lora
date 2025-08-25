@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-EXAMPLES_DIR="/data3/hyeonji/workspace/pretrained_lora"
+EXAMPLES_DIR="C:\Users\hongw\OneDrive\문서\interior_lora\interior_lora"
 V="boisversionsrai"
 
 # accelerate launch "$EXAMPLES_DIR/train_dreambooth_lora_sdxl.py" \
